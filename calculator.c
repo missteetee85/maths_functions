@@ -1,5 +1,6 @@
 #include <stdio.h>
-// This is a new  line
+
+// This is a new line that has been added 
 //f5bda72bd36bcf153cb6541800d088b9a169087c commit draft4 calculator.c
 
 // addition
