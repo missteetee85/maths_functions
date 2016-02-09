@@ -1,10 +1,6 @@
 #include <stdio.h>
-<<<<<<< HEAD
 
 // Added another line here
-=======
-// This is a new  line
->>>>>>> testing
 //f5bda72bd36bcf153cb6541800d088b9a169087c commit draft4 calculator.c
 
 // addition
