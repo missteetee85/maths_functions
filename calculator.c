@@ -1,12 +1,6 @@
 #include <stdio.h>
-
-
+// This is a new  line
 //f5bda72bd36bcf153cb6541800d088b9a169087c commit draft4 calculator.c
-//56e5c3b55d79d89c3b634bc8c7bf419b98d81ad1 commit draft3 calculator.c
-//92c0da59065e1b2771c1bb4214361c13f645afb0 commit draft2 calculator.c
-//a5b814ea5c4d4ad17f90f01c85ea93db01cae4d6 commit draft1 calculator.c
-
-
 
 // addition
 float add (float x, float y)
