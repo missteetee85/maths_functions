@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//This is the line casuing issue in the master branch
+//This is the second line causing issue in the <master> branch
 
 // addition
 float add (float x, float y)
