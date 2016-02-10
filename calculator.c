@@ -60,7 +60,25 @@ int main()
     }
     
     while (op != 'q');
-    
+
+int i;
+int a[Numb];
+int max = a[0];
+int min = a[0];
+
+  for (i = 0; i < 5; i++)
+    {
+      if (a[i] > max)
+        {
+          max = a[i];
+        }
+      else if (a[i] < min)
+        {
+          min = a[i];
+        }
+    }
+
+
     return 0;
 }
 
